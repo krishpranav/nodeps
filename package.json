@@ -1,0 +1,23 @@
+{
+  "name": "nodeps",
+  "version": "1.0.0",
+  "description": "Simple Port Scanner Built Using JS",
+  "main": "lib/nodeps.js",
+  "scripts": {
+    "help": "node lib/help.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krishpranav/nodeps"
+  },
+
+  "keywords": [],
+  "author": "Krisna Pranav",
+  "license": "MIT-License",
+  "devDependencies": {
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
